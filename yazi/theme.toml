@@ -1,0 +1,12 @@
+[flavor]
+dark = "catppuccin-mocha"
+light = "catppuccin-mocha"
+
+[app]
+overall = { bg = "reset" }
+
+[status]
+overall = { bg = "reset" }
+
+[which]
+mask = { bg = "reset" }
